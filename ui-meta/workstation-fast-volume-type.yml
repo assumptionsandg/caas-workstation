@@ -1,6 +1,6 @@
 name: "workstation"
 label: "Linux Workstation"
-description: Linux workstation (Ubuntu 20.04) accessible via a web browser.
+description: Linux workstation (Ubuntu 22.04) accessible via a web browser.
 logo: https://raw.githubusercontent.com/stackhpc/caas-workstation/main/assets/tux.png
 
 # Workstations are deployed without an SSH key
